@@ -1,0 +1,9 @@
+.Cart{
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+.Cart p{
+    font-size: 17px;
+}
