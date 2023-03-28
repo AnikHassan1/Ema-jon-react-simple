@@ -3,7 +3,7 @@ import './Cart.css';
 
 const Cart = ({cart}) => {
 //    const cart=props.cart;
-console.log(cart);
+// console.log(cart);
 
 let total=0;
 let Shipping=0;
